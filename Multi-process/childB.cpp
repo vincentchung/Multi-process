@@ -10,7 +10,7 @@
 #include <math.h>
 #include<iostream>
 #include <sys/shm.h>
-
+#include "childB.hpp"
 
 
 using namespace std;
