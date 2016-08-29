@@ -6,6 +6,7 @@
 //  Copyright © 2016年 vincent. All rights reserved.
 //
 #include<iostream>
+#include <stdlib.h>
 #include<sys/types.h>
 #include<unistd.h>
 #include<sys/wait.h>
